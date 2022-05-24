@@ -4,4 +4,4 @@ Linguagem|IDE
 ---|---
 C|Dev-C++
 ## Sistema funcionando
-![captura do sistema](./img/imgLabirinto.png)
+![captura do sistema](./imgLabirinto.png)
